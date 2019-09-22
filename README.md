@@ -13,11 +13,11 @@ Computer Screen - medical imaging device
 View from head up display. 
 ![xxxx](Image%20from%20iOS%20(3).jpg)
 
-Surgerical operation
+Surgical operation
 ![xxxx](Image%20from%20iOS%20(6).jpg)
 
-Surgerical operation
+Surgical operation
 ![xxxx](Image%20from%20iOS%20(7).jpg)
 
-Surgerical operation
+Surgical operation
 ![xxxx](Image%20from%20iOS%20(9).jpg)
